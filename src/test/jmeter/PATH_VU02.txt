@@ -1,0 +1,1001 @@
+P_02
+ws/PB/Campina Grande/Castelo Branco/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/SP/Cotia/Palos Verdes/json
+ws/AP/Santana/Igarape/json
+ws/PE/Olinda/Ouro Preto/json
+ws/DF/Brasilia/Taguatinga/json
+ws/MA/Caxias/Jose Castro/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/MS/Dourados/Jardim/json
+ws/SE/Aracaju/Farolandia/json
+ws/MS/Campo Grande/Vila/json
+ws/BA/Salvador/Brotas/json
+ws/CE/Caucaia/Icarai/json
+ws/CE/Fortaleza/Siqueira/json
+ws/GO/Planaltina/Setor/json
+ws/RR/Boa Vista/Mecejana/json
+ws/DF/Brasilia/Taguatinga/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/PE/Olinda/Ouro Preto/json
+ws/DF/Brasilia/Ceilandia/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/AP/Santana/Igarape/json
+ws/MS/Campo Grande/Vila/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/AP/Macapa/Pedrinhas/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/SP/Sao Paulo/Jardim/json
+ws/DF/Brasilia/Taguatinga/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/CE/Caucaia/Icarai/json
+ws/PE/Recife/Santo Amaro/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/MS/Campo Grande/Vila/json
+ws/BA/Salvador/Brotas/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SC/Florianopolis/Centro/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/SC/Itajai/Cidade Nova/json
+ws/RN/Natal/Ponte Negra/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/MA/Sao Luis/Vila/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/PA/Xinguara/Itamarati/json
+ws/PA/Maraba/Nova Maraba/json
+ws/RN/Natal/Ponte Negra/json
+ws/MS/Dourados/Jardim/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/RN/Natal/Ponte Negra/json
+ws/SP/Sao Paulo/Jardim/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/PE/Olinda/Ouro Preto/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PE/Recife/Santo Amaro/json
+ws/SE/Aracaju/Farolandia/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/MS/Campo Grande/Vila/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/DF/Brasilia/Ceilandia/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/PA/Maraba/Nova Maraba/json
+ws/CE/Fortaleza/Siqueira/json
+ws/RN/Parnamirim/Liberdade/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/SC/Itajai/Cidade Nova/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/DF/Brasilia/Taguatinga/json
+ws/PE/Olinda/Ouro Preto/json
+ws/AP/Macapa/Pedrinhas/json
+ws/ES/Vila Velha/Olaria/json
+ws/TO/Gurupi/Vila Iris/json
+ws/GO/Planaltina/Setor/json
+ws/MT/Cuiaba/Parque/json
+ws/SC/Itajai/Cidade Nova/json
+ws/DF/Brasilia/Ceilandia/json
+ws/SE/Aracaju/Farolandia/json
+ws/CE/Caucaia/Icarai/json
+ws/PI/Teresina/Monte Castelo/json
+ws/PE/Olinda/Ouro Preto/json
+ws/PR/Curitiba/Centro/json
+ws/SE/Aracaju/Farolandia/json
+ws/SP/Sao Paulo/Jardim/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/MS/Dourados/Jardim/json
+ws/RR/Boa Vista/Mecejana/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/GO/Planaltina/Setor/json
+ws/PB/Patos/Centro/json
+ws/MT/Cuiaba/Parque/json
+ws/MS/Dourados/Jardim/json
+ws/TO/Palmas/Plano/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/MA/Caxias/Jose Castro/json
+ws/DF/Brasilia/Ceilandia/json
+ws/RN/Natal/Ponte Negra/json
+ws/BA/Salvador/Brotas/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/DF/Brasilia/Taguatinga/json
+ws/TO/Gurupi/Vila Iris/json
+ws/ES/Vila Velha/Olaria/json
+ws/PB/Patos/Centro/json
+ws/PA/Maraba/Nova Maraba/json
+ws/GO/Luziania/Parque/json
+ws/GO/Planaltina/Setor/json
+ws/SP/Sao Paulo/Jardim/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/PR/Curitiba/Centro/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/MS/Campo Grande/Vila/json
+ws/ES/Vila Velha/Olaria/json
+ws/RN/Natal/Ponte Negra/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/SE/Aracaju/Santa Maria/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/SC/Florianopolis/Centro/json
+ws/RR/Boa Vista/Mecejana/json
+ws/PB/Patos/Centro/json
+ws/BA/Salvador/Brotas/json
+ws/SE/Aracaju/Santa Maria/json
+ws/PA/Maraba/Nova Maraba/json
+ws/SC/Florianopolis/Centro/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/TO/Gurupi/Vila Iris/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/PE/Recife/Santo Amaro/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/PA/Maraba/Nova Maraba/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/MS/Dourados/Jardim/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MA/Caxias/Jose Castro/json
+ws/TO/Gurupi/Vila Iris/json
+ws/SC/Itajai/Cidade Nova/json
+ws/SC/Florianopolis/Centro/json
+ws/AP/Santana/Igarape/json
+ws/GO/Luziania/Parque/json
+ws/DF/Brasilia/Ceilandia/json
+ws/GO/Luziania/Parque/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/MS/Campo Grande/Vila/json
+ws/DF/Brasilia/Ceilandia/json
+ws/PR/Curitiba/Centro/json
+ws/BA/Salvador/Brotas/json
+ws/MA/Caxias/Jose Castro/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/SC/Florianopolis/Centro/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/SP/Cotia/Palos Verdes/json
+ws/TO/Gurupi/Vila Iris/json
+ws/RN/Parnamirim/Liberdade/json
+ws/SC/Itajai/Cidade Nova/json
+ws/CE/Fortaleza/Siqueira/json
+ws/PA/Maraba/Nova Maraba/json
+ws/DF/Brasilia/Ceilandia/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/MS/Campo Grande/Vila/json
+ws/GO/Luziania/Parque/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/BA/Salvador/Brotas/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/PE/Recife/Santo Amaro/json
+ws/MS/Campo Grande/Vila/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/TO/Palmas/Plano/json
+ws/PI/Teresina/Monte Castelo/json
+ws/GO/Luziania/Parque/json
+ws/SE/Aracaju/Santa Maria/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/PR/Curitiba/Centro/json
+ws/CE/Caucaia/Icarai/json
+ws/AP/Santana/Igarape/json
+ws/DF/Brasilia/Ceilandia/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/PB/Patos/Centro/json
+ws/PE/Recife/Santo Amaro/json
+ws/PB/Patos/Centro/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/MA/Caxias/Jose Castro/json
+ws/DF/Brasilia/Ceilandia/json
+ws/ES/Vitoria/Piedade/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/DF/Brasilia/Ceilandia/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/BA/Salvador/Canela/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/RN/Parnamirim/Liberdade/json
+ws/CE/Fortaleza/Siqueira/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/MA/Sao Luis/Vila/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/AP/Santana/Igarape/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/MA/Caxias/Jose Castro/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/AP/Macapa/Pedrinhas/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/SE/Aracaju/Farolandia/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/RN/Parnamirim/Liberdade/json
+ws/AP/Macapa/Pedrinhas/json
+ws/TO/Palmas/Plano/json
+ws/CE/Caucaia/Icarai/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/DF/Brasilia/Ceilandia/json
+ws/SE/Aracaju/Farolandia/json
+ws/RR/Boa Vista/Mecejana/json
+ws/TO/Gurupi/Vila Iris/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/BA/Salvador/Brotas/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/PR/Curitiba/Centro/json
+ws/CE/Caucaia/Icarai/json
+ws/PE/Recife/Santo Amaro/json
+ws/DF/Brasilia/Ceilandia/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/GO/Planaltina/Setor/json
+ws/BA/Salvador/Brotas/json
+ws/RR/Boa Vista/Mecejana/json
+ws/PE/Olinda/Ouro Preto/json
+ws/SC/Florianopolis/Centro/json
+ws/BA/Salvador/Canela/json
+ws/PE/Olinda/Ouro Preto/json
+ws/MT/Cuiaba/Parque/json
+ws/AC/Placido de Castro/Centro/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/DF/Brasilia/Taguatinga/json
+ws/PA/Xinguara/Itamarati/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/TO/Palmas/Plano/json
+ws/PR/Curitiba/Centro/json
+ws/SE/Aracaju/Farolandia/json
+ws/BA/Salvador/Brotas/json
+ws/GO/Planaltina/Setor/json
+ws/RN/Natal/Ponte Negra/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SE/Aracaju/Farolandia/json
+ws/ES/Vila Velha/Olaria/json
+ws/RN/Natal/Ponte Negra/json
+ws/SE/Aracaju/Santa Maria/json
+ws/PE/Olinda/Ouro Preto/json
+ws/DF/Brasilia/Taguatinga/json
+ws/CE/Caucaia/Icarai/json
+ws/SE/Aracaju/Santa Maria/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/AP/Santana/Igarape/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/SE/Aracaju/Santa Maria/json
+ws/ES/Vila Velha/Olaria/json
+ws/PA/Xinguara/Itamarati/json
+ws/SP/Sao Paulo/Jardim/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/PB/Patos/Centro/json
+ws/PA/Maraba/Nova Maraba/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/MS/Campo Grande/Vila/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/GO/Luziania/Parque/json
+ws/CE/Caucaia/Icarai/json
+ws/SP/Cotia/Palos Verdes/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RR/Boa Vista/Mecejana/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/MS/Campo Grande/Vila/json
+ws/BA/Salvador/Brotas/json
+ws/MT/Cuiaba/Parque/json
+ws/CE/Caucaia/Icarai/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/MA/Sao Luis/Vila/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/PB/Patos/Centro/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/SE/Aracaju/Farolandia/json
+ws/AC/Placido de Castro/Centro/json
+ws/SC/Itajai/Cidade Nova/json
+ws/MA/Caxias/Jose Castro/json
+ws/AP/Macapa/Pedrinhas/json
+ws/GO/Luziania/Parque/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/GO/Luziania/Parque/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/TO/Gurupi/Vila Iris/json
+ws/PE/Recife/Santo Amaro/json
+ws/MT/Cuiaba/Parque/json
+ws/DF/Brasilia/Taguatinga/json
+ws/PE/Recife/Santo Amaro/json
+ws/AP/Macapa/Pedrinhas/json
+ws/PB/Patos/Centro/json
+ws/BA/Salvador/Canela/json
+ws/SE/Aracaju/Farolandia/json
+ws/MS/Dourados/Jardim/json
+ws/RN/Parnamirim/Liberdade/json
+ws/BA/Salvador/Brotas/json
+ws/TO/Palmas/Plano/json
+ws/PA/Xinguara/Itamarati/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/RN/Parnamirim/Liberdade/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/GO/Luziania/Parque/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/MA/Sao Luis/Vila/json
+ws/PE/Olinda/Ouro Preto/json
+ws/SE/Aracaju/Santa Maria/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/PI/Teresina/Monte Castelo/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/MA/Sao Luis/Vila/json
+ws/CE/Caucaia/Icarai/json
+ws/CE/Caucaia/Icarai/json
+ws/PB/Patos/Centro/json
+ws/SE/Aracaju/Farolandia/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/TO/Palmas/Plano/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/PB/Patos/Centro/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/TO/Gurupi/Vila Iris/json
+ws/PA/Xinguara/Itamarati/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/AP/Macapa/Pedrinhas/json
+ws/RN/Parnamirim/Liberdade/json
+ws/MS/Dourados/Jardim/json
+ws/DF/Brasilia/Ceilandia/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/CE/Caucaia/Icarai/json
+ws/SE/Aracaju/Santa Maria/json
+ws/PR/Curitiba/Centro/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/GO/Planaltina/Setor/json
+ws/DF/Brasilia/Ceilandia/json
+ws/SE/Aracaju/Farolandia/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/MA/Sao Luis/Vila/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SP/Cotia/Palos Verdes/json
+ws/AC/Placido de Castro/Centro/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MA/Sao Luis/Vila/json
+ws/GO/Planaltina/Setor/json
+ws/ES/Vila Velha/Olaria/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/PE/Recife/Santo Amaro/json
+ws/AP/Santana/Igarape/json
+ws/AC/Placido de Castro/Centro/json
+ws/DF/Brasilia/Ceilandia/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/MA/Sao Luis/Vila/json
+ws/MS/Campo Grande/Vila/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/MA/Caxias/Jose Castro/json
+ws/PI/Teresina/Monte Castelo/json
+ws/SE/Aracaju/Farolandia/json
+ws/ES/Vitoria/Piedade/json
+ws/CE/Fortaleza/Siqueira/json
+ws/MS/Dourados/Jardim/json
+ws/RN/Natal/Ponte Negra/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/SC/Itajai/Cidade Nova/json
+ws/BA/Salvador/Brotas/json
+ws/AP/Macapa/Pedrinhas/json
+ws/ES/Vila Velha/Olaria/json
+ws/CE/Caucaia/Icarai/json
+ws/RN/Parnamirim/Liberdade/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/PA/Xinguara/Itamarati/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/RR/Boa Vista/Mecejana/json
+ws/BA/Salvador/Canela/json
+ws/SE/Aracaju/Farolandia/json
+ws/SC/Florianopolis/Centro/json
+ws/BA/Salvador/Brotas/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PE/Recife/Santo Amaro/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/CE/Caucaia/Icarai/json
+ws/SC/Itajai/Cidade Nova/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/TO/Gurupi/Vila Iris/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/CE/Caucaia/Icarai/json
+ws/AP/Santana/Igarape/json
+ws/SP/Cotia/Palos Verdes/json
+ws/SP/Sao Paulo/Jardim/json
+ws/SE/Aracaju/Farolandia/json
+ws/GO/Planaltina/Setor/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/AP/Macapa/Pedrinhas/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RN/Parnamirim/Liberdade/json
+ws/BA/Salvador/Brotas/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/MS/Dourados/Jardim/json
+ws/AC/Placido de Castro/Centro/json
+ws/SE/Aracaju/Santa Maria/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/BA/Salvador/Brotas/json
+ws/AP/Santana/Igarape/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/TO/Gurupi/Vila Iris/json
+ws/DF/Brasilia/Ceilandia/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/MT/Cuiaba/Parque/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/SE/Aracaju/Farolandia/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/MT/Cuiaba/Parque/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/RN/Parnamirim/Liberdade/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/CE/Caucaia/Icarai/json
+ws/PA/Maraba/Nova Maraba/json
+ws/CE/Caucaia/Icarai/json
+ws/BA/Salvador/Brotas/json
+ws/SC/Florianopolis/Centro/json
+ws/SE/Aracaju/Santa Maria/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/MS/Dourados/Jardim/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/AP/Macapa/Pedrinhas/json
+ws/SC/Itajai/Cidade Nova/json
+ws/PA/Maraba/Nova Maraba/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/GO/Planaltina/Setor/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/SE/Aracaju/Farolandia/json
+ws/CE/Caucaia/Icarai/json
+ws/GO/Planaltina/Setor/json
+ws/AP/Macapa/Pedrinhas/json
+ws/GO/Planaltina/Setor/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/TO/Palmas/Plano/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/BA/Salvador/Brotas/json
+ws/SE/Aracaju/Santa Maria/json
+ws/MS/Dourados/Jardim/json
+ws/SC/Itajai/Cidade Nova/json
+ws/AP/Macapa/Pedrinhas/json
+ws/PE/Olinda/Ouro Preto/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SC/Florianopolis/Centro/json
+ws/SE/Aracaju/Farolandia/json
+ws/PA/Maraba/Nova Maraba/json
+ws/RR/Boa Vista/Mecejana/json
+ws/ES/Vila Velha/Olaria/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MA/Sao Luis/Vila/json
+ws/CE/Caucaia/Icarai/json
+ws/MA/Sao Luis/Vila/json
+ws/DF/Brasilia/Ceilandia/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/TO/Palmas/Plano/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MA/Caxias/Jose Castro/json
+ws/MS/Dourados/Jardim/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/TO/Palmas/Plano/json
+ws/AP/Santana/Igarape/json
+ws/DF/Brasilia/Taguatinga/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/BA/Salvador/Brotas/json
+ws/AC/Placido de Castro/Centro/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/PB/Patos/Centro/json
+ws/AC/Placido de Castro/Centro/json
+ws/MS/Campo Grande/Vila/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/SE/Aracaju/Santa Maria/json
+ws/BA/Salvador/Canela/json
+ws/MA/Caxias/Jose Castro/json
+ws/RN/Natal/Ponte Negra/json
+ws/MA/Sao Luis/Vila/json
+ws/DF/Brasilia/Ceilandia/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/AP/Santana/Igarape/json
+ws/SP/Sao Paulo/Jardim/json
+ws/GO/Luziania/Parque/json
+ws/AP/Macapa/Pedrinhas/json
+ws/SE/Aracaju/Farolandia/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/SC/Itajai/Cidade Nova/json
+ws/CE/Fortaleza/Siqueira/json
+ws/AP/Santana/Igarape/json
+ws/SC/Florianopolis/Centro/json
+ws/PE/Olinda/Ouro Preto/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/MS/Campo Grande/Vila/json
+ws/DF/Brasilia/Taguatinga/json
+ws/MS/Dourados/Jardim/json
+ws/SC/Itajai/Cidade Nova/json
+ws/PA/Xinguara/Itamarati/json
+ws/PB/Patos/Centro/json
+ws/ES/Vitoria/Piedade/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/GO/Planaltina/Setor/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/BA/Salvador/Brotas/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/TO/Gurupi/Vila Iris/json
+ws/SE/Aracaju/Santa Maria/json
+ws/PA/Xinguara/Itamarati/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/PR/Curitiba/Centro/json
+ws/RN/Natal/Ponte Negra/json
+ws/PE/Recife/Santo Amaro/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/BA/Salvador/Brotas/json
+ws/BA/Salvador/Brotas/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/PR/Curitiba/Centro/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SE/Aracaju/Farolandia/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/SP/Cotia/Palos Verdes/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/TO/Gurupi/Vila Iris/json
+ws/DF/Brasilia/Taguatinga/json
+ws/DF/Brasilia/Ceilandia/json
+ws/SE/Aracaju/Santa Maria/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/MA/Sao Luis/Vila/json
+ws/SE/Aracaju/Farolandia/json
+ws/RN/Natal/Ponte Negra/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/MA/Caxias/Jose Castro/json
+ws/SP/Cotia/Palos Verdes/json
+ws/SC/Florianopolis/Centro/json
+ws/SC/Itajai/Cidade Nova/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/MT/Cuiaba/Parque/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/SC/Itajai/Cidade Nova/json
+ws/CE/Fortaleza/Siqueira/json
+ws/ES/Vitoria/Piedade/json
+ws/PB/Patos/Centro/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PE/Recife/Santo Amaro/json
+ws/PB/Patos/Centro/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/PA/Xinguara/Itamarati/json
+ws/PR/Curitiba/Centro/json
+ws/AP/Santana/Igarape/json
+ws/SC/Itajai/Cidade Nova/json
+ws/CE/Caucaia/Icarai/json
+ws/RN/Parnamirim/Liberdade/json
+ws/ES/Vila Velha/Olaria/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/DF/Brasilia/Ceilandia/json
+ws/PA/Maraba/Nova Maraba/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/GO/Luziania/Parque/json
+ws/PI/Teresina/Monte Castelo/json
+ws/MT/Cuiaba/Parque/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/RR/Boa Vista/Mecejana/json
+ws/DF/Brasilia/Taguatinga/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/SP/Cotia/Palos Verdes/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/MA/Sao Luis/Vila/json
+ws/PA/Maraba/Nova Maraba/json
+ws/MS/Campo Grande/Vila/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/AC/Placido de Castro/Centro/json
+ws/RN/Natal/Ponte Negra/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/MA/Caxias/Jose Castro/json
+ws/ES/Vitoria/Piedade/json
+ws/ES/Vitoria/Piedade/json
+ws/PR/Curitiba/Centro/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RR/Boa Vista/Mecejana/json
+ws/SP/Cotia/Palos Verdes/json
+ws/PI/Teresina/Monte Castelo/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/SP/Cotia/Palos Verdes/json
+ws/MA/Sao Luis/Vila/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/ES/Vitoria/Piedade/json
+ws/AP/Macapa/Pedrinhas/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/DF/Brasilia/Taguatinga/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/SE/Aracaju/Santa Maria/json
+ws/PA/Maraba/Nova Maraba/json
+ws/AC/Placido de Castro/Centro/json
+ws/CE/Fortaleza/Siqueira/json
+ws/ES/Vila Velha/Olaria/json
+ws/PI/Teresina/Monte Castelo/json
+ws/PI/Teresina/Monte Castelo/json
+ws/PE/Olinda/Ouro Preto/json
+ws/RR/Boa Vista/Mecejana/json
+ws/SP/Sao Paulo/Jardim/json
+ws/PE/Olinda/Ouro Preto/json
+ws/CE/Caucaia/Icarai/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/SC/Itajai/Cidade Nova/json
+ws/PE/Olinda/Ouro Preto/json
+ws/PA/Xinguara/Itamarati/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/RN/Natal/Ponte Negra/json
+ws/RN/Natal/Ponte Negra/json
+ws/DF/Brasilia/Ceilandia/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/GO/Luziania/Parque/json
+ws/SP/Cotia/Palos Verdes/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RR/Boa Vista/Mecejana/json
+ws/AP/Santana/Igarape/json
+ws/CE/Caucaia/Icarai/json
+ws/BA/Salvador/Canela/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/MT/Cuiaba/Parque/json
+ws/CE/Fortaleza/Siqueira/json
+ws/CE/Fortaleza/Siqueira/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PE/Recife/Santo Amaro/json
+ws/AP/Santana/Igarape/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/SP/Sao Paulo/Jardim/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/PR/Curitiba/Centro/json
+ws/PE/Recife/Santo Amaro/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/SE/Aracaju/Farolandia/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/BA/Salvador/Canela/json
+ws/RN/Natal/Ponte Negra/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/SC/Itajai/Cidade Nova/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/PA/Xinguara/Itamarati/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/PR/Curitiba/Centro/json
+ws/RN/Parnamirim/Liberdade/json
+ws/GO/Luziania/Parque/json
+ws/SP/Sao Paulo/Jardim/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/PA/Maraba/Nova Maraba/json
+ws/BA/Salvador/Canela/json
+ws/SE/Aracaju/Farolandia/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/SE/Aracaju/Santa Maria/json
+ws/AC/Placido de Castro/Centro/json
+ws/CE/Fortaleza/Siqueira/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/SC/Florianopolis/Centro/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/PE/Recife/Santo Amaro/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/AP/Macapa/Pedrinhas/json
+ws/TO/Palmas/Plano/json
+ws/DF/Brasilia/Ceilandia/json
+ws/MS/Dourados/Jardim/json
+ws/MT/Cuiaba/Parque/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/GO/Luziania/Parque/json
+ws/PA/Maraba/Nova Maraba/json
+ws/SE/Aracaju/Santa Maria/json
+ws/AL/Maceio/Benedito Bentes/json
+ws/BA/Salvador/Canela/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/PE/Olinda/Ouro Preto/json
+ws/AC/Placido de Castro/Centro/json
+ws/BA/Salvador/Brotas/json
+ws/SE/Aracaju/Farolandia/json
+ws/MS/Campo Grande/Vila/json
+ws/RJ/Angra dos Reis/Parque/json
+ws/RN/Parnamirim/Liberdade/json
+ws/MA/Caxias/Jose Castro/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/MA/Sao Luis/Vila/json
+ws/PE/Recife/Santo Amaro/json
+ws/AP/Macapa/Pedrinhas/json
+ws/PE/Olinda/Ouro Preto/json
+ws/MS/Dourados/Jardim/json
+ws/ES/Vitoria/Piedade/json
+ws/RN/Natal/Ponte Negra/json
+ws/BA/Salvador/Canela/json
+ws/SC/Florianopolis/Centro/json
+ws/DF/Brasilia/Taguatinga/json
+ws/RN/Natal/Ponte Negra/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/MS/Dourados/Jardim/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/PI/Teresina/Monte Castelo/json
+ws/SP/Cotia/Palos Verdes/json
+ws/SC/Florianopolis/Centro/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MS/Campo Grande/Vila/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/CE/Fortaleza/Siqueira/json
+ws/DF/Brasilia/Ceilandia/json
+ws/RR/Boa Vista/Mecejana/json
+ws/DF/Brasilia/Ceilandia/json
+ws/BA/Salvador/Brotas/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PE/Recife/Santo Amaro/json
+ws/AC/Placido de Castro/Centro/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/CE/Fortaleza/Siqueira/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/SE/Aracaju/Farolandia/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/CE/Caucaia/Icarai/json
+ws/TO/Gurupi/Vila Iris/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/ES/Vila Velha/Olaria/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/DF/Brasilia/Ceilandia/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/PB/Patos/Centro/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/AC/Placido de Castro/Centro/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/PB/Patos/Centro/json
+ws/CE/Fortaleza/Siqueira/json
+ws/AL/Palmeira dos Indios/Sao Cristovao/json
+ws/SE/Aracaju/Farolandia/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/GO/Planaltina/Setor/json
+ws/PE/Recife/Santo Amaro/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/SP/Sao Paulo/Jardim/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/SE/Aracaju/Farolandia/json
+ws/SC/Itajai/Cidade Nova/json
+ws/AP/Santana/Igarape/json
+ws/SC/Florianopolis/Centro/json
+ws/PE/Olinda/Ouro Preto/json
+ws/TO/Palmas/Plano/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/AM/Manaus/Jorge Teixeira/json
+ws/PB/Patos/Centro/json
+ws/ES/Vitoria/Piedade/json
+ws/RR/Boa Vista/Mecejana/json
+ws/MA/Caxias/Jose Castro/json
+ws/PR/Curitiba/Centro/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RN/Natal/Ponte Negra/json
+ws/MS/Campo Grande/Vila/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/PE/Recife/Santo Amaro/json
+ws/AP/Macapa/Pedrinhas/json
+ws/AC/Rio Branco/Morada do Sol/json
+ws/AM/Itacoatiara/Sao Francisco/json
+ws/PR/Curitiba/Centro/json
+ws/DF/Brasilia/Taguatinga/json
+ws/MT/Cuiaba/Parque/json
+ws/AC/Placido de Castro/Centro/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/PR/Curitiba/Centro/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SE/Aracaju/Farolandia/json
+ws/RR/Boa Vista/Mecejana/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/ES/Vitoria/Piedade/json
+ws/PI/Parnaiba/Igaraçu/json
+ws/BA/Salvador/Brotas/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/RN/Parnamirim/Liberdade/json
+ws/DF/Brasilia/Ceilandia/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/GO/Planaltina/Setor/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/MA/Sao Luis/Vila/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/RO/Porto Velho/Tres Marias/json
+ws/CE/Caucaia/Icarai/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/BA/Salvador/Canela/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/DF/Brasilia/Ceilandia/json
+ws/SE/Aracaju/Farolandia/json
+ws/GO/Planaltina/Setor/json
+ws/GO/Luziania/Parque/json
+ws/SP/Cotia/Palos Verdes/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/MS/Campo Grande/Vila/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PB/Campina Grande/Castelo Branco/json
+ws/BA/Salvador/Canela/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/MA/Sao Luis/Vila/json
+ws/RN/Parnamirim/Liberdade/json
+ws/BA/Salvador/Brotas/json
+ws/CE/Caucaia/Icarai/json
+ws/AC/Placido de Castro/Centro/json
+ws/MS/Campo Grande/Vila/json
+ws/SE/Aracaju/Farolandia/json
+ws/PR/Curitiba/Centro/json
+ws/PR/Ponta Grossa/Chapada/json
+ws/MS/Dourados/Jardim/json
+ws/GO/Luziania/Parque/json
+ws/AP/Macapa/Pedrinhas/json
+ws/PA/Maraba/Nova Maraba/json
+ws/PI/Teresina/Monte Castelo/json
+ws/BA/Salvador/Brotas/json
+ws/CE/Caucaia/Icarai/json
+ws/SC/Florianopolis/Centro/json
+ws/SC/Itajai/Cidade Nova/json
+ws/ES/Vitoria/Piedade/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/MG/Santana do Paraiso/Cidade Nova/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/SC/Florianopolis/Centro/json
+ws/BA/Salvador/Brotas/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/SP/Sao Paulo/Jardim/json
+ws/MA/Caxias/Jose Castro/json
+ws/SE/Aracaju/Santa Maria/json
+ws/TO/Gurupi/Vila Iris/json
+ws/RN/Natal/Ponte Negra/json
+ws/AP/Santana/Igarape/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RR/Boa Vista/Mecejana/json
+ws/RR/Boa Vista/Mecejana/json
+ws/SE/Aracaju/Santa Maria/json
+ws/SP/Cotia/Palos Verdes/json
+ws/SE/Aracaju/Farolandia/json
+ws/RS/Porto Alegre/Boa Vista/json
+ws/DF/Brasilia/Taguatinga/json
+ws/RN/Natal/Ponte Negra/json
+ws/TO/Palmas/Plano/json
+ws/MT/Varzea Grande/Ponte Nova/json
+ws/DF/Brasilia/Ceilandia/json
+ws/RR/Boa Vista/Mecejana/json
+ws/PE/Recife/Santo Amaro/json
+ws/RS/Caxias do Sul/Serrano/json
+ws/SC/Itajai/Cidade Nova/json
+ws/AP/Macapa/Pedrinhas/json
+ws/PB/Patos/Centro/json
+ws/SE/Aracaju/Santa Maria/json
+ws/RN/Parnamirim/Liberdade/json
+ws/PE/Olinda/Ouro Preto/json
+ws/RN/Natal/Ponte Negra/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/BA/Salvador/Alto das Pombas/json
+ws/DF/Brasilia/Taguatinga/json
+ws/RJ/Rio de Janeiro/Bangu/json
+ws/BA/Salvador/Brotas/json
+ws/GO/Planaltina/Setor/json
+ws/DF/Brasilia/Ceilandia/json
+ws/PE/Recife/Santo Amaro/json
+ws/SC/Itajai/Cidade Nova/json
+ws/CE/Caucaia/Icarai/json
+ws/DF/Brasilia/Aguas Claras/json
+ws/MG/Itacarambi/Mato Grosso/json
+ws/RR/Boa Vista/Nova cidade/json
+ws/MA/Caxias/Jose Castro/json
+ws/MS/Campo Grande/Vila/json
